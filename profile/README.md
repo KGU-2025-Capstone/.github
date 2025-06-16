@@ -1,7 +1,10 @@
 ![Frame 21](https://github.com/user-attachments/assets/8d038528-786c-4169-9b8b-f7a7c19700ca)
 
 ## ⚕️복잡한 일반의약품 정보, 이제 다국어로 쉽게 이해할 수 있어요!
-<br><br>
+#### 🥈경기대학교 AI컴퓨터공학부 기초캡스톤 경진대회 은상 수상작
+
+<br>
+
 ### 🧑‍🤝‍🧑팀원
 <table>
   <tr>
