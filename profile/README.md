@@ -1,4 +1,5 @@
-![Frame 21](https://github.com/user-attachments/assets/2e5d3679-bae9-434c-b3e4-6849d607cf25)
+![Frame 21](https://github.com/user-attachments/assets/8d038528-786c-4169-9b8b-f7a7c19700ca)
+
 ## ⚕️복잡한 일반의약품 정보, 이제 다국어로 쉽게 이해할 수 있어요!
 <br><br>
 ### 🧑‍🤝‍🧑팀원
