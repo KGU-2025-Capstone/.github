@@ -7,12 +7,13 @@ K-Mediguide 는 식약처에서 제공하는 e약은요 api 를 활용하여 이
 
 <br>
 <br>
+
 ### 🧑‍🤝‍🧑팀원
 <table>
   <tr>
     <td><img src = https://avatars.githubusercontent.com/u/156490146?v=4 style = width:100px></td>
-    <td><b>EverJun2</b></td>
-    <td>팀장<br>프론트엔드-스프링부트-챗봇 연동<br>인근 약국 정보기능 작업<br>RAG 작업<br> 코드 수정 </td>
+    <td><b>EverJun2 <br> (팀장)</b></td>
+    <td>프론트엔드-스프링부트-챗봇 연동<br>인근 약국 정보기능 작업<br>RAG 작업<br> 코드 수정 </td>
     <td><img src = https://avatars.githubusercontent.com/u/186993483?v=4 style = width:100px></td>
     <td><b>SEOoZERO</b></td>
     <td>챗봇 QA <br> 데이터셋 제작</td>
